@@ -5,4 +5,4 @@
 
 - Estou estudando na [Alura](https://www.alura.com.br);
 - Estou me desenvolvendo na linguagem _JavaScript_;
-- Utilizo este espaço para minha organização e compartilhamneto dos meus projetos.
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos.
